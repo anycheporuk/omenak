@@ -1,0 +1,5 @@
+.sequences-table {
+	td {
+		@apply p-2
+	}
+}
