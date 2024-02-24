@@ -2,8 +2,8 @@
 import { Router } from "@solidjs/router";
 import { FileRoutes } from "@solidjs/start";
 import { Suspense } from "solid-js";
-import Nav from "~/components/Nav";
-import "./app.css";
+import Header from "~/components/Header";
+import "./styles/index.css";
 
 
 export default function App() {
@@ -11,8 +11,10 @@ export default function App() {
 		<Router
 			root={props => (
 				<>
-					<Nav />
-					<Suspense>{props.children}</Suspense>
+					<Header />
+					<main class="max-w-4xl w-full mx-auto p-3">
+						<Suspense>{props.children}</Suspense>
+					</main>
 				</>
 			)}
 		>
