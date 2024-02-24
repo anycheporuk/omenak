@@ -4,7 +4,7 @@ import "./SequencesTable.css";
 
 export function SequencesTable() {
 	return (
-		<table class="border-separate border-spacing-0 sequences-table mx-auto">
+		<table class="w-72 border-separate border-spacing-0 sequences-table mx-auto">
 			<thead class="bg-zinc-900 *:*:border-zinc-700 *:*:border-2 *:*:p-2">
 			<tr>
 				<th colspan={2} class="text-amber-700">No One</th>

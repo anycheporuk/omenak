@@ -1,0 +1,18 @@
+@media (prefers-color-scheme: dark) {
+	:root {
+		--primary-color: 3 105, 160;
+		--text-color: 224 242 254;
+		--background-color: 0 0 0;
+		/*--background-color: 8 47 73;*/
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--primary-color: 14 165 233;
+		--text-color: 0 0 0;
+		/*--text-color: 8 47 73;*/
+		--background-color: 212 212 212; /* #fef3c7 */
+		/*--background-color: 224 242 254;*/
+	}
+}
