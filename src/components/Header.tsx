@@ -15,9 +15,6 @@ export default function Header() {
 					<li class={`border-b-2 ${active("/about")} `}>
 						<a href="/about">About</a>
 					</li>
-					<li class={`border-b-2 ${active("/test")} `}>
-						<a href="/test">Test md</a>
-					</li>
 					<li class={`border-b-2 ${active("/sequences")} `}>
 						<a href="/sequences">Sequences</a>
 					</li>
