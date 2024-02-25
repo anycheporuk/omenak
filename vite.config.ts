@@ -21,7 +21,7 @@ export default defineConfig({
 			jsx: true,
 			jsxImportSource: "solid-js",
 			providerImportSource: "solid-mdx",
-			remarkPlugins: [remarkFrontmatter, remarkMdxFrontmatter, remarkGfm({})],
+			remarkPlugins: [remarkFrontmatter, remarkMdxFrontmatter, remarkGfm],
 		}),
 		ViteImageOptimizer({
 			webp:{
