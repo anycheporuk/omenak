@@ -27,12 +27,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Paladin of Honor",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Master of Light",
+					},
+					{
+						name: "Shadowless",
+					},
+					{
+						name: "White Knight",
+					},
+					{
+						name: "Radiant",
+					},
+					{
+						name: "Golden Angel"
+					},
+					{
+						name: "Light"
+					},
 					{
 						name: "Sun",
 					},
@@ -49,12 +61,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Master of Battle",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Colonel",
+					},
+					{
+						name: "Paladin of Blood",
+					},
+					{
+						name: "Knight of Glory",
+					},
+					{
+						name: "Restless Cavalryman"
+					},
+					{
+						name: "Great General"
+					},
+					{
+						name: "Silver Chariot"
+					},
 					{
 						name: "Diamond Giant",
 					},
@@ -66,17 +90,29 @@ export const oldOnes: OldOne[] = [
 						name: "Spectator",
 					},
 					{
-						name: "Telepath",
+						name: "Telepathist",
 					},
 					{
 						name: "Psychiatrist",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Master of Hypnosis",
+					},
+					{
+						name: "Seer of Mind",
+					},
+					{
+						name: "Manipulator",
+					},
+					{
+						name: "Dream Creator",
+					},
+					{
+						name: "Gray Angel",
+					},
+					{
+						name: "Weaver of Fate",
+					},
 					{
 						name: "Visionary",
 					},
@@ -93,12 +129,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Investigator",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Detective",
+					},
+					{
+						name: "Against Saboteur",
+					},
+					{
+						name: "Connoisseur of Mysticism",
+					},
+					{
+						name: "Professor",
+					},
+					{
+						name: "Angel of Wisdom",
+					},
+					{
+						name: "Omniscient",
+					},
 					{
 						name: "Sage of the Ways",
 					},
@@ -124,11 +172,21 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Faceless",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Marionettist",
+					},
+					{
+						name: "Joker",
+					},
+					{
+						name: "Wizard of Nostalgia",
+					},
+					{
+						name: "Miracle Invoker",
+					},
+					{
+						name: "Mystery",
+					},
 					{
 						name: "Fool",
 					},
@@ -145,12 +203,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Spy",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Sharp Rose",
+					},
+					{
+						name: "Invisible",
+					},
+					{
+						name: "Misty Knight",
+					},
+					{
+						name: "Phantom",
+					},
+					{
+						name: "Keeper of Secrets",
+					},
+					{
+						name: "lord of Shadows",
+					},
 					{
 						name: "Mirage",
 					},

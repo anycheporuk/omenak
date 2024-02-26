@@ -16,7 +16,7 @@ body {
 
 @media (prefers-color-scheme: light) {
 	body {
-		/*background-image: url('../images/day-city.webp');*/
+		background-image: url('../images/daytimeJerard.webp');
 		background-position: center top;
 	}
 }
