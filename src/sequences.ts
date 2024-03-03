@@ -237,12 +237,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Cryptologist",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "The Invader",
+					},
+					{
+						name: "Black Mentalist",
+					},
+					{
+						name: "Parasite",
+					},
+					{
+						name: "Spirit of Falsehood",
+					},
+					{
+						name: "Blasphemer of Destiny",
+					},
+					{
+						name: "Mad Robber",
+					},
 					{
 						name: "Bug",
 					},
@@ -265,12 +277,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Master of Anger",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Caster",
+},
+					{
+						name: "Mage of Symbols",
+},
+					{
+						name: "Magister of Assault",
+},
+					{
+						name: "Dragon",
+},
+					{
+						name: "Angel of Destruction",
+},
+					{
+						name: "Armageddon",
+},
 					{
 						name: "Twilight Dragon",
 					},
@@ -287,12 +311,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Master of Sleep",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Astronomer",
+},
+					{
+						name: "Lancer",
+},
+					{
+						name: "Night Watchman",
+},
+					{
+						name: "Hunter of Legends",
+},
+					{
+						name: "Dark Angel",
+},
+					{
+						name: "Star Archmage",
+},
 					{
 						name: "Darkness",
 					},
@@ -309,12 +345,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Doomsayer",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Necromancer",
+},
+					{
+						name: "Violator",
+},
+					{
+						name: "Death Knight",
+},
+					{
+						name: "Undying King",
+},
+					{
+						name: "Angel of Misfortune",
+},
+					{
+						name: "Lich of Revenge",
+},
 					{
 						name: "Death",
 					},
@@ -346,9 +394,15 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Black Knight",
 					},
-					{},
-					{},
-					{},
+					{
+						name: "Lord of the Dungeon",
+},
+					{
+						name: "Angel of Defense",
+},
+					{
+						name: "Earthquake",
+},
 					{
 						name: "Cave Emperor",
 					},
@@ -360,17 +414,29 @@ export const oldOnes: OldOne[] = [
 						name: "Sailor",
 					},
 					{
-						name: "Water Swordsman",
+						name: "Pirate",
 					},
 					{
 						name: "Seafarer",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Saber Master",
+},
+					{
+						name: "Wave",
+},
+					{
+						name: "Blue Reaper",
+},
+					{
+						name: "Sea King",
+},
+					{
+						name: "Tempest",
+},
+					{
+						name: "Catastrophe",
+},
 					{
 						name: "Tyrant",
 					},
@@ -393,12 +459,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Master of the Elements",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "The Creator of His Happiness",
+},
+					{
+						name: "Alchemist",
+},
+					{
+						name: "Summoner",
+},
+					{
+						name: "Evolutionist",
+},
+					{
+						name: "Natural Masterpiece",
+},
+					{
+						name: "Rainbow Archmage",
+},
 					{
 						name: "Disaster",
 					},
@@ -407,7 +485,7 @@ export const oldOnes: OldOne[] = [
 			{
 				sequences: [
 					{
-						name: "Shaman",
+						name: "Petitioner of Spirits",
 					},
 					{
 						name: "Potion Maker",
@@ -415,12 +493,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Closure Master",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Shaman",
+},
+					{
+						name: "Spiritual Medium",
+},
+					{
+						name: "Druid",
+},
+					{
+						name: "King of Spirits",
+},
+					{
+						name: "Angel of Life",
+},
+					{
+						name: "Unfading Phoenix",
+},
 					{
 						name: "Immortal Spirit",
 					},
@@ -443,12 +533,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Master of Grimoires",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Appraiser",
+},
+					{
+						name: "Chemist",
+},
+					{
+						name: "Researcher Arcana",
+},
+					{
+						name: "Mystic",
+},
+					{
+						name: "Keeper of Knowledge",
+},
+					{
+						name: "Researcher of the Unearthly",
+},
 					{
 						name: "Hermit",
 					},
@@ -468,13 +570,23 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Artisan",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
 					{
-						name: "Tyrant",
+						name: "Physicist",
+},
+					{
+						name: "Artefactor",
+},
+					{
+						name: "King of Steel",
+},
+					{
+						name: "Mega Cyborg",
+},
+					{
+						name: "Divine Blacksmith",
+},
+					{
+						name: "Processor",
 					},
 				],
 			},
@@ -495,12 +607,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Pyromaniac",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Conspirator",
+},
+					{
+						name: "Barbarian",
+},
+					{
+						name: "Knight of War",
+},
+					{
+						name: "Herald",
+},
+					{
+						name: "Blood Angel",
+},
+					{
+						name: "Conqueror",
+},
 					{
 						name: "Infinite Battle",
 					},
@@ -509,7 +633,7 @@ export const oldOnes: OldOne[] = [
 			{
 				sequences: [
 					{
-						name: "Illusionist",
+						name: "Attention Stealer",
 					},
 					{
 						name: "Instigator",
@@ -517,12 +641,24 @@ export const oldOnes: OldOne[] = [
 					{
 						name: "Witch",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Pleasure",
+},
+					{
+						name: "Suffering",
+},
+					{
+						name: "Despair",
+},
+					{
+						name: "Destroyer of Personas",
+},
+					{
+						name: "Demoness",
+},
+					{
+						name: "Apocalypse",
+},
 					{
 						name: "Plague",
 					},
@@ -543,14 +679,26 @@ export const oldOnes: OldOne[] = [
 						name: "Wanderer",
 					},
 					{
-						name: "Lucky One",
+						name: "Romantic",
 					},
-					{},
-					{},
-					{},
-					{},
-					{},
-					{},
+					{
+						name: "Lucky One",
+},
+					{
+						name: "Philosopher",
+},
+					{
+						name: "Winner",
+},
+					{
+						name: "Unpredictable",
+},
+					{
+						name: "The Hand of God",
+},
+					{
+						name: "Snake Mercury",
+},
 					{
 						name: "Wheel of Fortune",
 					},

@@ -1,4 +1,5 @@
 .sequences-table {
+	margin-left: -10rem;
 	td {
 		@apply p-2
 	}
