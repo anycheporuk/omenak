@@ -706,4 +706,226 @@ export const oldOnes: OldOne[] = [
 			},
 		],
 	},
+	{
+		name: "Devourer of Worlds",
+		class: "text--500",
+		pathways: [
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Chained",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Hanged Man",
+					},
+				],
+			},
+		],
+	},
+	{
+		name: "Hell",
+		class: "text--500",
+		pathways: [
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Abyss",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Corruption",
+					},
+				],
+			},
+		],
+	},
+	{
+		name: "Paradise",
+		class: "text--500",
+		pathways: [
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+				],
+			},
+		],
+	},
 ];
