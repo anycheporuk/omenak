@@ -13,919 +13,919 @@ type OldOne = {
 
 export const oldOnes: OldOne[] = [
 	{
-		name: "Almighty God",
+		name: "Бог Всемогутній",
 		class: "text-amber-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Bard",
+						name: "Бард",
 					},
 					{
-						name: "Priest of Light",
+						name: "Жрець Світла",
 					},
 					{
-						name: "Paladin of Honor",
+						name: "Паладин Честі",
 					},
 					{
-						name: "Master of Light",
+						name: "Священник Світла",
 					},
 					{
-						name: "Shadowless",
+						name: "Незатемнений",
 					},
 					{
-						name: "White Knight",
+						name: "Білий Лицар",
 					},
 					{
-						name: "Radiant",
+						name: "Сяючий Чародій",
 					},
 					{
-						name: "Golden Angel"
+						name: "Золотий Ангел"
 					},
 					{
-						name: "Light"
+						name: "Архієпископ Світла",
 					},
 					{
-						name: "Sun",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "Warrior",
-					},
-					{
-						name: "Fighter",
-					},
-					{
-						name: "Master of Battle",
-					},
-					{
-						name: "Colonel",
-					},
-					{
-						name: "Paladin of Blood",
-					},
-					{
-						name: "Knight of Glory",
-					},
-					{
-						name: "Restless Cavalryman"
-					},
-					{
-						name: "Great General"
-					},
-					{
-						name: "Silver Chariot"
-					},
-					{
-						name: "Diamond Giant",
+						name: "Сонце",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Spectator",
+						name: "Воїн",
 					},
 					{
-						name: "Telepathist",
+						name: "Борець",
 					},
 					{
-						name: "Psychiatrist",
+						name: "Майстер Бою",
 					},
 					{
-						name: "Master of Hypnosis",
+						name: "Полковник",
 					},
 					{
-						name: "Seer of Mind",
+						name: "Кровавий Паладин",
 					},
 					{
-						name: "Manipulator",
+						name: "Лицар Слави",
 					},
 					{
-						name: "Dream Creator",
+						name: "Невгамонний Кавалерист"
 					},
 					{
-						name: "Gray Angel",
+						name: "Титан"
 					},
 					{
-						name: "Weaver of Fate",
+						name: "Срібна Колесниця"
 					},
 					{
-						name: "Visionary",
+						name: "Алмазний Гігант",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Reader",
+						name: "Глядач",
 					},
 					{
-						name: "Analyst",
+						name: "Телепат",
 					},
 					{
-						name: "Investigator",
+						name: "Психіатр",
 					},
 					{
-						name: "Detective",
+						name: "Майстер Гіпнозу",
 					},
 					{
-						name: "Against Saboteur",
+						name: "Провидець Розуму",
 					},
 					{
-						name: "Connoisseur of Mysticism",
+						name: "Маніпулятор",
 					},
 					{
-						name: "Professor",
+						name: "Творець Мрій",
 					},
 					{
-						name: "Angel of Wisdom",
+						name: "Сірий Ангел",
 					},
 					{
-						name: "Omniscient",
+						name: "Ткач долі",
 					},
 					{
-						name: "Sage of the Ways",
+						name: "Мрійний",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "Читач",
+					},
+					{
+						name: "Аналітик",
+					},
+					{
+						name: "Слідчий",
+					},
+					{
+						name: "Детектив",
+					},
+					{
+						name: "Проти Саботажник",
+					},
+					{
+						name: "Знаток Містики",
+					},
+					{
+						name: "Професор Прочерків",
+					},
+					{
+						name: "Ангел Знань",
+					},
+					{
+						name: "Знаючий",
+					},
+					{
+						name: "Мудрець Шляхів",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Lord of Mystery",
+		name: "Володар Таємниць",
 		class: "text-violet-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Seer",
+						name: "Провидець",
 					},
 					{
-						name: "Clown",
+						name: "Клоун",
 					},
 					{
-						name: "Magician",
+						name: "Фокусник",
 					},
 					{
-						name: "Faceless",
+						name: "Безликий",
 					},
 					{
-						name: "Marionettist",
+						name: "Ляльковий Майстер",
 					},
 					{
-						name: "Joker",
+						name: "Джокер",
 					},
 					{
-						name: "Wizard of Nostalgia",
+						name: "Настольгуючий Маг",
 					},
 					{
-						name: "Miracle Invoker",
+						name: "Чудотворець",
 					},
 					{
-						name: "Mystery",
+						name: "Таємниця",
 					},
 					{
-						name: "Fool",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "Assassin",
-					},
-					{
-						name: "Imitator",
-					},
-					{
-						name: "Spy",
-					},
-					{
-						name: "Sharp Rose",
-					},
-					{
-						name: "Invisible",
-					},
-					{
-						name: "Misty Knight",
-					},
-					{
-						name: "Phantom",
-					},
-					{
-						name: "Keeper of Secrets",
-					},
-					{
-						name: "lord of Shadows",
-					},
-					{
-						name: "Mirage",
+						name: "Шут",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Marauder",
+						name: "Асасин",
 					},
 					{
-						name: "Swindler",
+						name: "Імітатор",
 					},
 					{
-						name: "Cryptologist",
+						name: "Шпигун",
 					},
 					{
-						name: "The Invader",
+						name: "Колюча Роза",
 					},
 					{
-						name: "Black Mentalist",
+						name: "Невидимка",
 					},
 					{
-						name: "Parasite",
+						name: "Туманний Лицар",
 					},
 					{
-						name: "Spirit of Falsehood",
+						name: "Фантом",
 					},
 					{
-						name: "Blasphemer of Destiny",
+						name: "Хранитель Секретів",
 					},
 					{
-						name: "Mad Robber",
+						name: "Лорд Тіней",
 					},
 					{
-						name: "Bug",
+						name: "Міраж",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "Мародер",
+					},
+					{
+						name: "Шахрай",
+					},
+					{
+						name: "Криптолог",
+					},
+					{
+						name: "Загарбник",
+					},
+					{
+						name: "Чорний Менталіст",
+					},
+					{
+						name: "Паразит",
+					},
+					{
+						name: "Дух Фальші",
+					},
+					{
+						name: "Богохульник Судьби",
+					},
+					{
+						name: "Безумний Розбійник",
+					},
+					{
+						name: "Баг",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Black Dragon",
+		name: "Чорний Дракон",
 		class: "text-blue-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Wizard",
+						name: "Чародій",
 					},
 					{
-						name: "Storm Mage",
+						name: "Штормовий Маг",
 					},
 					{
-						name: "Master of Anger",
+						name: "Майстер Гніву",
 					},
 					{
-						name: "Caster",
+						name: "Кастер",
 },
 					{
-						name: "Mage of Symbols",
+						name: "Маг Символів",
 },
 					{
-						name: "Magister of Assault",
+						name: "Магістр Штурму",
 },
 					{
-						name: "Dragon",
+						name: "Дракон",
 },
 					{
-						name: "Angel of Destruction",
+						name: "Ангел Руйнування",
 },
 					{
-						name: "Armageddon",
+						name: "Армагедон",
 },
 					{
-						name: "Twilight Dragon",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "Sleepless",
-					},
-					{
-						name: "Night Singer",
-					},
-					{
-						name: "Master of Sleep",
-					},
-					{
-						name: "Astronomer",
-},
-					{
-						name: "Lancer",
-},
-					{
-						name: "Night Watchman",
-},
-					{
-						name: "Hunter of Legends",
-},
-					{
-						name: "Dark Angel",
-},
-					{
-						name: "Star Archmage",
-},
-					{
-						name: "Darkness",
+						name: "Сутінковий Дракон",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Corpse Collector",
+						name: "Безсонний",
 					},
 					{
-						name: "Bone Priest",
+						name: "Нічна Пісня",
 					},
 					{
-						name: "Doomsayer",
+						name: "Майстер Сну",
 					},
 					{
-						name: "Necromancer",
+						name: "Астроном",
 },
 					{
-						name: "Violator",
+						name: "Лансер",
 },
 					{
-						name: "Death Knight",
+						name: "Нічний Дозор",
 },
 					{
-						name: "Undying King",
+						name: "Мисливець за Легендами",
 },
 					{
-						name: "Angel of Misfortune",
+						name: "Темний Ангел",
 },
 					{
-						name: "Lich of Revenge",
+						name: "Зоряний Архімаг",
 },
 					{
-						name: "Death",
+						name: "Темрява",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "Збирач Трупів",
+					},
+					{
+						name: "Костяний Жрець",
+					},
+					{
+						name: "Проклятий",
+					},
+					{
+						name: "Некромант",
+},
+					{
+						name: "Осквернитель",
+},
+					{
+						name: "Лицар Смерті",
+},
+					{
+						name: "Невмираючий Король",
+},
+					{
+						name: "Ангел Нещастя",
+},
+					{
+						name: "Ліч Помсти",
+},
+					{
+						name: "Смерть",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Owner of the World",
+		name: "Власник Світу",
 		class: "text-teal-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Builder",
+						name: "будівник",
 					},
 					{
-						name: "Researcher of the Deep",
+						name: "Дослідник Глибин",
 					},
 					{
-						name: "Master Ruin",
+						name: "Майстер Руїн",
 					},
 					{
-						name: "Miner of Greed",
+						name: "Шахтар Жадності",
 					},
 					{
-						name: "Permeable",
+						name: "Проникаючий",
 					},
 					{
-						name: "Black Knight",
+						name: "Чорний Лицар",
 					},
 					{
-						name: "Lord of the Dungeon",
+						name: "Лорд Підземелля",
 },
 					{
-						name: "Angel of Defense",
+						name: "Ангел Оборони",
 },
 					{
-						name: "Earthquake",
+						name: "Землетрус",
 },
 					{
-						name: "Cave Emperor",
+						name: "Печерний Імператор",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Sailor",
+						name: "Матрос",
 					},
 					{
-						name: "Pirate",
+						name: "Пірат",
 					},
 					{
-						name: "Seafarer",
+						name: "Мореплавець",
 					},
 					{
-						name: "Saber Master",
+						name: "Сейбер",
 },
 					{
-						name: "Wave",
+						name: "Хвиля",
 },
 					{
-						name: "Blue Reaper",
+						name: "Голубий Жнець",
 },
 					{
-						name: "Sea King",
+						name: "Морський Король",
 },
 					{
-						name: "Tempest",
+						name: "Буря",
 },
 					{
-						name: "Catastrophe",
+						name: "Катастрофа",
 },
 					{
-						name: "Tyrant",
+						name: "Тиран",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Phoenix of the Elements",
+		name: "Фенікс Стихій",
 		class: "text-lime-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Elementalist",
+						name: "Елементаліст",
 					},
 					{
-						name: "Poet",
+						name: "Поет",
 					},
 					{
-						name: "Master of the Elements",
+						name: "Майстер Стихій",
 					},
 					{
-						name: "The Creator of His Happiness",
+						name: "Творець Свого Щастя",
 },
 					{
-						name: "Alchemist",
+						name: "Алхімік",
 },
 					{
-						name: "Summoner",
+						name: "Призивач",
 },
 					{
-						name: "Evolutionist",
+						name: "Еволюціонер",
 },
 					{
-						name: "Natural Masterpiece",
+						name: "Прироний Шедевр",
 },
 					{
-						name: "Rainbow Archmage",
+						name: "Райдужний Архімаг",
 },
 					{
-						name: "Disaster",
+						name: "Стихійне Лихо",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Petitioner of Spirits",
+						name: "Прохач Духів",
 					},
 					{
-						name: "Potion Maker",
+						name: "Виробник Зілля",
 					},
 					{
-						name: "Closure Master",
+						name: "Майстер Печаті",
 					},
 					{
-						name: "Shaman",
+						name: "Шаман",
 },
 					{
-						name: "Spiritual Medium",
+						name: "Духовний Медіум",
 },
 					{
-						name: "Druid",
+						name: "Друїд",
 },
 					{
-						name: "King of Spirits",
+						name: "Король Духів",
 },
 					{
-						name: "Angel of Life",
+						name: "Ангел Життя",
 },
 					{
-						name: "Unfading Phoenix",
+						name: "Незгасаюча Птиця",
 },
 					{
-						name: "Immortal Spirit",
+						name: "Безсмертний Дух",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Law",
+		name: "Закон",
 		class: "text-orange-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Attendant",
+						name: "Ученик",
 					},
 					{
-						name: "Seeker",
+						name: "Шукач",
 					},
 					{
-						name: "Master of Grimoires",
+						name: "Майстер Гримуарів",
 					},
 					{
-						name: "Appraiser",
+						name: "Оцінювач",
 },
 					{
-						name: "Chemist",
+						name: "Хімік",
 },
 					{
-						name: "Researcher Arcana",
+						name: "Дослідник Аркани",
 },
 					{
-						name: "Mystic",
+						name: "Містик",
 },
 					{
-						name: "Keeper of Knowledge",
+						name: "Хранитель Знань",
 },
 					{
-						name: "Researcher of the Unearthly",
+						name: "Дослідник Космічного",
 },
 					{
-						name: "Hermit",
+						name: "Відлюдник",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Scientist",
+						name: "Науковець",
 					},
 					{
-						name: "Mechanic",
+						name: "Механік",
 					},
 					{
-						name: "Inventor",
+						name: "Відкривач",
 					},
 					{
-						name: "Artisan",
+						name: "Ремісник",
 					},
 					{
-						name: "Physicist",
+						name: "Фізик",
 },
 					{
-						name: "Artefactor",
+						name: "Артефактор",
 },
 					{
-						name: "King of Steel",
+						name: "Залізний Король",
 },
 					{
-						name: "Mega Cyborg",
+						name: "Мега Кіборг",
 },
 					{
-						name: "Divine Blacksmith",
+						name: "Божествений Коваль",
 },
 					{
-						name: "Processor",
+						name: "Процесор",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Two-Faced",
+		name: "Дволикій",
 		class: "text-red-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Hunter",
+						name: "Мисливець",
 					},
 					{
-						name: "Provoker",
+						name: "Провокатор",
 					},
 					{
-						name: "Pyromaniac",
+						name: "Піромант",
 					},
 					{
-						name: "Conspirator",
+						name: "Змовник",
 },
 					{
-						name: "Barbarian",
+						name: "Варвар",
 },
 					{
-						name: "Knight of War",
+						name: "Лицар Війни",
 },
 					{
-						name: "Herald",
+						name: "Вісник",
 },
 					{
-						name: "Blood Angel",
+						name: "Кровавий Ангел",
 },
 					{
-						name: "Conqueror",
+						name: "Завойовник",
 },
 					{
-						name: "Infinite Battle",
+						name: "Безкінечна Війна",
 					},
 				],
 			},
 			{
 				sequences: [
 					{
-						name: "Attention Stealer",
+						name: "Викрадач Уваги",
 					},
 					{
-						name: "Instigator",
+						name: "Підбурювач",
 					},
 					{
-						name: "Witch",
+						name: "Відьма",
 					},
 					{
-						name: "Pleasure",
+						name: "Насолода",
 },
 					{
-						name: "Suffering",
+						name: "Страждання",
 },
 					{
-						name: "Despair",
+						name: "Відчай",
 },
 					{
-						name: "Destroyer of Personas",
+						name: "Руйнівник Особи",
 },
 					{
-						name: "Demoness",
+						name: "Демониця",
 },
 					{
-						name: "Apocalypse",
+						name: "Апокаліпсис",
 },
 					{
-						name: "Plague",
+						name: "Чума",
 					},
 				],
 			},
 		],
 	},
 	{
-		name: "Chaos Effect",
+		name: "Ефект Хаосу",
 		class: "text-pink-500",
 		pathways: [
 			{
 				sequences: [
 					{
-						name: "Vagabond",
+						name: "Бродяга",
 					},
 					{
-						name: "Wanderer",
+						name: "Мандрівник",
 					},
 					{
-						name: "Romantic",
+						name: "Романтик",
 					},
 					{
-						name: "Lucky One",
+						name: "Везунчик",
 },
 					{
-						name: "Philosopher",
+						name: "Філософ",
 },
 					{
-						name: "Winner",
+						name: "Переможець",
 },
 					{
-						name: "Unpredictable",
+						name: "Непередбачуваний",
 },
 					{
-						name: "The Hand of God",
+						name: "Рука Бога",
 },
 					{
-						name: "Snake Mercury",
+						name: "Змій Меркурія",
 },
 					{
-						name: "Wheel of Fortune",
+						name: "Колесо Удачі",
 					},
 				],
 			},
 		],
 	},
-	{
-		name: "Devourer of Worlds",
-		class: "text--500",
-		pathways: [
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "Chained",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "Hanged Man",
-					},
-				],
-			},
-		],
-	},
-	{
-		name: "Hell",
-		class: "text--500",
-		pathways: [
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "Abyss",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "Corruption",
-					},
-				],
-			},
-		],
-	},
-	{
-		name: "Paradise",
-		class: "text--500",
-		pathways: [
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-				],
-			},
-			{
-				sequences: [
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-					{
-						name: "",
-					},
-				],
-			},
-		],
-	},
+	// {
+	// 	name: "Devourer of Worlds",
+	// 	class: "text-green-500",
+	// 	pathways: [
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Chained",
+	// 				},
+	// 			],
+	// 		},
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Hanged Man",
+	// 				},
+	// 			],
+	// 		},
+	// 	],
+	// },
+	// {
+	// 	name: "Paradise",
+	// 	class: "text-emerald-500",
+	// 	pathways: [
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Supreme Jinn",
+	// 				},
+	// 			],
+	// 		},
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Bliss",
+	// 				},
+	// 			],
+	// 		},
+	// 	],
+	// },
+	// {
+	// 	name: "Hell",
+	// 	class: "text-fuchsia-500",
+	// 	pathways: [
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Abyss",
+	// 				},
+	// 			],
+	// 		},
+	// 		{
+	// 			sequences: [
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "",
+	// 				},
+	// 				{
+	// 					name: "Corruption",
+	// 				},
+	// 			],
+	// 		},
+	// 	],
+	// },
 ];
