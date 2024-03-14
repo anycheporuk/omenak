@@ -1,20 +1,22 @@
 import { oldOnes } from "~/sequences";
 import "./SequencesTable.css";
+import { useTranslation } from "~/shared/useTranslation";
 
 
 export function SequencesTable() {
+	const {t} = useTranslation("sequences");
 	return (
 		<table class="w-72 border-separate border-spacing-1 sequences-table mx-auto">
 			<thead class="bg-background *:*:p-2">
 			<tr>
-				<th colspan={2} class="text-amber-800 dark:text-amber-700">No One</th>
-				<th colspan={2} class="text-slate-500 dark:text-slate-300">Master</th>
-				<th colspan={2} class="text-slate-500 dark:text-slate-300">Knight</th>
-				<th class="text-yellow-600 dark:text-yellow-400">Holy</th>
-				<th class="text-yellow-600 dark:text-yellow-400">Angel</th>
-				<th class="text-yellow-600 dark:text-yellow-400">Hero</th>
-				<th class="text-sky-600 dark:text-sky-400">True God</th>
-				<th class="text-red-700 dark:text-red-600" rowspan={2}>Great Old One</th>
+				<th colspan={2} class="text-amber-800 dark:text-amber-700">Ніхто</th>
+				<th colspan={2} class="text-slate-500 dark:text-slate-300">Майстер</th>
+				<th colspan={2} class="text-slate-500 dark:text-slate-300">Лицар</th>
+				<th class="text-yellow-600 dark:text-yellow-400">Святий</th>
+				<th class="text-yellow-600 dark:text-yellow-400">Ангел</th>
+				<th class="text-yellow-600 dark:text-yellow-400">Герой</th>
+				<th class="text-sky-600 dark:text-sky-400">Правдивий Бог</th>
+				<th class="text-red-700 dark:text-red-600" rowspan={2}>Великий Давній</th>
 			</tr>
 			<tr>
 				<th class="text-amber-800 dark:text-amber-700">9</th>
