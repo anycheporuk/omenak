@@ -71,13 +71,13 @@ export const oldOnes: OldOne[] = [
 						name: "Лицар Слави",
 					},
 					{
-						name: "Невгамонний Кавалерист"
+						name: "Невгамонний Вождь"
 					},
 					{
 						name: "Титан"
 					},
 					{
-						name: "Срібна Колесниця"
+						name: "Руйнівник"
 					},
 					{
 						name: "Алмазний Гігант",
@@ -145,7 +145,7 @@ export const oldOnes: OldOne[] = [
 						name: "Ангел Знань",
 					},
 					{
-						name: "Знаючий",
+						name: "Всезнаючий",
 					},
 					{
 						name: "Мудрець Шляхів",
@@ -290,7 +290,7 @@ export const oldOnes: OldOne[] = [
 						name: "Дракон",
 },
 					{
-						name: "Ангел Руйнування",
+						name: "Ангел Лиха",
 },
 					{
 						name: "Армагедон",
@@ -426,7 +426,7 @@ export const oldOnes: OldOne[] = [
 						name: "Хвиля",
 },
 					{
-						name: "Голубий Жнець",
+						name: "Лазурний Жнець",
 },
 					{
 						name: "Морський Король",
@@ -626,7 +626,7 @@ export const oldOnes: OldOne[] = [
 						name: "Завойовник",
 },
 					{
-						name: "Безкінечна Війна",
+						name: "Червона Колесниця",
 					},
 				],
 			},
@@ -781,7 +781,7 @@ export const oldOnes: OldOne[] = [
 	// 	],
 	// },
 	// {
-	// 	name: "Paradise",
+	// 	name: "Рай",
 	// 	class: "text-emerald-500",
 	// 	pathways: [
 	// 		{
@@ -814,7 +814,7 @@ export const oldOnes: OldOne[] = [
 	// 					name: "",
 	// 				},
 	// 				{
-	// 					name: "Supreme Jinn",
+	// 					name: "Небесні Ворота",
 	// 				},
 	// 			],
 	// 		},
@@ -848,14 +848,14 @@ export const oldOnes: OldOne[] = [
 	// 					name: "",
 	// 				},
 	// 				{
-	// 					name: "Bliss",
+	// 					name: "Блаженство",
 	// 				},
 	// 			],
 	// 		},
 	// 	],
 	// },
 	// {
-	// 	name: "Hell",
+	// 	name: "Пекло",
 	// 	class: "text-fuchsia-500",
 	// 	pathways: [
 	// 		{
@@ -888,7 +888,7 @@ export const oldOnes: OldOne[] = [
 	// 					name: "",
 	// 				},
 	// 				{
-	// 					name: "Abyss",
+	// 					name: "Безодня",
 	// 				},
 	// 			],
 	// 		},
@@ -922,10 +922,124 @@ export const oldOnes: OldOne[] = [
 	// 					name: "",
 	// 				},
 	// 				{
-	// 					name: "Corruption",
+	// 					name: "Дикий Вогонь",
 	// 				},
 	// 			],
 	// 		},
 	// 	],
 	// },
+	{
+		name: "Новий Світ",
+		class: "text-stone-500",
+		pathways: [
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+				],
+			},
+		],
+	},
+	{
+		name: "Стимулятор Зірок",
+		class: "text-emerald-500",
+		pathways: [
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Кровавік",
+					},
+				],
+			},
+			{
+				sequences: [
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "",
+					},
+					{
+						name: "Балдер",
+					},
+				],
+			},
+		],
+	},
 ];
