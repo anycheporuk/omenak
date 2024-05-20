@@ -11,9 +11,6 @@ export default defineConfig({
 	start: {
 		extensions: ["mdx", "md"],
 		server: {
-			prerender: {
-				crawlLinks: true
-			}
 		}
 	},
 	plugins: [
